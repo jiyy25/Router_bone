@@ -1,0 +1,26 @@
+{
+    "kr": {
+        "navi": [
+            {
+                "d1text" :"네이버",
+                "cls": "naver"
+            },
+            {
+                "d1text" :"다음",
+                "cls": "daum"
+            }
+        ]
+    },
+    "en": {
+        "navi": [
+            {
+                "d1text" :"NAVER",
+                "cls": "naver"
+            },
+            {
+                "d1text" :"DAUM",
+                "cls": "daum"
+            }
+        ]
+    }
+}
